@@ -1,8 +1,8 @@
-# React + Vite
+# Online Shoes Product Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A product landing page built with React and styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+This project was created in 2022 during my early learning phase while exploring modern frontend development with React. It focuses on building a clean product presentation layout and practicing component-based UI development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+React • Tailwind CSS
