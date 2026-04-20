@@ -46,7 +46,7 @@ function Footer() {
        max-sm:flex-col max-sm:items-center'>
         <div className='flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer '>
           <img src={copyrightSign} alt="" width={20} height={20} className='rounded-full m-0'/>
-          <p> NEOSTROPH 2022 Copyright. All rights reserved.</p>
+          <p> Sahnoune Aya 2022 Copyright. All rights reserved.</p>
         </div>
         <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
       </div>
