@@ -1,8 +1,24 @@
 # Online Shoes Product Landing Page
 
-A product landing page built with React and styled using Tailwind CSS.
+A modern product landing page built with React and Tailwind CSS, focused on clean UI design and smooth visual experience.
 
-This project was created during my early learning phase while exploring modern frontend development with React. It focuses on building a clean product presentation layout and practicing component-based UI development.
+---
+
+## Overview
+This project was created during my early learning phase in modern frontend development, where I explored React for component-based architecture and Tailwind CSS for utility-first styling.
+
+It was also my first experience working with Tailwind CSS and building a UI with a more dynamic and modern design approach.
+
+---
 
 ## Tech Stack
-React • Tailwind CSS
+- React
+- Tailwind CSS
+
+---
+
+## Features
+- Responsive product landing page design
+- Clean and modern UI layout
+- Component-based structure using React
+- Tailwind CSS utility-first styling
